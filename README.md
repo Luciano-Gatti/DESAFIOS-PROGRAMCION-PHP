@@ -28,7 +28,7 @@ Este repositorio contiene ejercicios de programación en PHP del curso **"Desaf�
 
 1. **Clona el repositorio:**
 
-   git clone https://github.com/tu-usuario/desafios-php.git
+   git clone [https://github.com/Luciano-Gatti/DESAFIOS-PROGRAMACION-PHP.git](https://github.com/Luciano-Gatti/DESAFIOS-PROGRAMCION-PHP.git)
   
 2. **Explora los desafíos:** Cada carpeta contiene un conjunto de ejercicios agrupados por tema.
 
