@@ -1,3 +1,5 @@
+<?php require_once "protected.php" ?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -27,7 +29,7 @@
             <input type="submit" value="Sign in">
         </form>
 
-        <?php if(isset($permissions) && is_array($permissions) && in_array("edit_profile", $permissions)) { ?>
+        <?php if(isset($permissions) && in_array("edit_profile", $permissions)) { ?>
             <!-- Mostrar el botón de edición del perfil -->
             <button>Edit Profile</button>
         <?php } ?>
