@@ -1,8 +1,8 @@
 <?php
 $db_host = "localhost";
-$db_user = "root";
-$db_pass = "root";
-$db_name = "php_course";
+$db_user = "username";
+$db_pass = "password";
+$db_name = "database_name";
 
 //Crear la conexion a la base de datos
 $db = new mysqli($db_host, $db_user, $db_pass, $db_name);
